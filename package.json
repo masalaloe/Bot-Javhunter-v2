@@ -1,0 +1,13 @@
+{
+  "name": "js-discordbot",
+  "version": "0.0.0",
+  "description": "js-discordbot",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^8.2.0"
+  }
+}
